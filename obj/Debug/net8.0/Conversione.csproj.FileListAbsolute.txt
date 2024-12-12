@@ -1,0 +1,15 @@
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\bin\Debug\net8.0\Conversione.exe
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\bin\Debug\net8.0\Conversione.deps.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\bin\Debug\net8.0\Conversione.runtimeconfig.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\bin\Debug\net8.0\Conversione.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\bin\Debug\net8.0\Conversione.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.AssemblyInfoInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.AssemblyInfo.cs
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.csproj.CoreCompileInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.sourcelink.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\refint\Conversione.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\Conversione.genruntimeconfig.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Conversione\obj\Debug\net8.0\ref\Conversione.dll
